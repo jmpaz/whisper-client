@@ -1,4 +1,4 @@
-# whisper-transcribe
+# whisper-client
 Written after months of meaning to transcribe years' worth of voice memos 
 
 ## About
